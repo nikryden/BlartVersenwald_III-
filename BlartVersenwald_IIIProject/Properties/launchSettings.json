@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BlartVersenwald_IIIProject": {
+      "commandName": "Project",
+      "commandLineArgs": "D:\\Projects\\Git\\BlartVersenwald_III-\\TestData\\100MB\\TestDockument.txt"
+    }
+  }
+}
