@@ -37,4 +37,4 @@ Program that will calculate number of occurrences of the the filename in the spe
  - if the Text propery in GetFileNameOccurrencesInFile is null or empty
 
  Test:
- I created 10 test for the GetFileNameOccurrencesInFile class to get almost 100% test coverage. 
+ I created 10 test for the GetFileNameOccurrencesInFile class try to cover as mutch as possible.
