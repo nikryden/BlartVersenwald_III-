@@ -17,8 +17,8 @@ Program that will calculate number of occurrences of the the filename in the spe
  
  Build project
  To run: 
-  Build project
-  then just run
+ - Build project
+ - then just run
  ``` 
  BlartVersenwald_IIIProject.exe [path to file] 
  ```
